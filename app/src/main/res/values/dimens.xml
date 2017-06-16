@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fr_bi_setting_item_text_size">12sp</dimen>
+    <dimen name="fr_bi_setting_item_height">24dp</dimen>
+    <dimen name="fr_bi_setting_item_head_padding">20dp</dimen>
+    <dimen name="fr_bi_setting_item_padding">14dp</dimen>
+</resources>
