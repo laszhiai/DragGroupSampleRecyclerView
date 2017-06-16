@@ -1,10 +1,11 @@
-package com.li.jacky.draggrouprecyclerview.model;
+package com.li.jacky.mylibrary.model;
 
-import static com.li.jacky.draggrouprecyclerview.Constant.X_DIMENSION;
-import static com.li.jacky.draggrouprecyclerview.Constant.X_TARGETS;
-import static com.li.jacky.draggrouprecyclerview.Constant.Y_DIMENSION;
-import static com.li.jacky.draggrouprecyclerview.Constant.Y_TARGETS;
-import static com.li.jacky.draggrouprecyclerview.Constant.Z_TARGETS;
+
+import static com.li.jacky.mylibrary.Constant.X_DIMENSION;
+import static com.li.jacky.mylibrary.Constant.X_TARGETS;
+import static com.li.jacky.mylibrary.Constant.Y_DIMENSION;
+import static com.li.jacky.mylibrary.Constant.Y_TARGETS;
+import static com.li.jacky.mylibrary.Constant.Z_TARGETS;
 
 import java.util.ArrayList;
 import java.util.List;

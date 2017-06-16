@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DragGroupRecyclerView.iml" filepath="$PROJECT_DIR$/DragGroupRecyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DragGrouplibrary/DragGrouplibrary.iml" filepath="$PROJECT_DIR$/DragGrouplibrary/DragGrouplibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

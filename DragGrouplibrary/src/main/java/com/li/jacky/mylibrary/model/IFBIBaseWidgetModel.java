@@ -1,13 +1,13 @@
-package com.li.jacky.draggrouprecyclerview.model;
+package com.li.jacky.mylibrary.model;
 
-import android.graphics.Color;
+
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 
 
-import com.li.jacky.draggrouprecyclerview.Constant.REGION;
-import com.li.jacky.draggrouprecyclerview.model.dimension.IFBIDimensionGroup;
-import com.li.jacky.draggrouprecyclerview.model.dimension.IFBIDimensionModel;
+import com.li.jacky.mylibrary.Constant.REGION;
+import com.li.jacky.mylibrary.model.dimension.IFBIDimensionGroup;
+import com.li.jacky.mylibrary.model.dimension.IFBIDimensionModel;
 import java.util.Map;
 import org.json.JSONArray;
 import org.json.JSONException;

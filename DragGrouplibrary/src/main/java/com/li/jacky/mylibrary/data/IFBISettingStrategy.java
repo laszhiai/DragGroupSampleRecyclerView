@@ -1,20 +1,21 @@
-package com.li.jacky.draggrouprecyclerview.data;
+package com.li.jacky.mylibrary.data;
 
 
-import static com.li.jacky.draggrouprecyclerview.Constant.TEXT_COLOR_BLUE;
+
+import static com.li.jacky.mylibrary.Constant.TEXT_COLOR_BLUE;
 
 import android.support.annotation.Nullable;
 import android.text.Spannable;
 import android.text.SpannableStringBuilder;
 import android.text.style.ForegroundColorSpan;
-import com.li.jacky.draggrouprecyclerview.Constant.REGION;
-import com.li.jacky.draggrouprecyclerview.helper.IFBISettingItem;
-import com.li.jacky.draggrouprecyclerview.model.IFBIBaseWidgetModel;
-import com.li.jacky.draggrouprecyclerview.model.IFBISettingItemModel;
-import com.li.jacky.draggrouprecyclerview.model.IFBISettingRegion;
-import com.li.jacky.draggrouprecyclerview.model.IFBISettingTitleModel;
-import com.li.jacky.draggrouprecyclerview.model.dimension.IFBIDimensionGroup;
-import com.li.jacky.draggrouprecyclerview.model.dimension.IFBIDimensionModel;
+import com.li.jacky.mylibrary.Constant.REGION;
+import com.li.jacky.mylibrary.helper.IFBISettingItem;
+import com.li.jacky.mylibrary.model.IFBIBaseWidgetModel;
+import com.li.jacky.mylibrary.model.IFBISettingItemModel;
+import com.li.jacky.mylibrary.model.IFBISettingRegion;
+import com.li.jacky.mylibrary.model.IFBISettingTitleModel;
+import com.li.jacky.mylibrary.model.dimension.IFBIDimensionGroup;
+import com.li.jacky.mylibrary.model.dimension.IFBIDimensionModel;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

@@ -1,7 +1,7 @@
-package com.li.jacky.draggrouprecyclerview.model;
+package com.li.jacky.mylibrary.model;
 
-import com.li.jacky.draggrouprecyclerview.helper.IFBISettingItem;
-import com.li.jacky.draggrouprecyclerview.model.dimension.IFBIDimensionModel;
+import com.li.jacky.mylibrary.helper.IFBISettingItem;
+import com.li.jacky.mylibrary.model.dimension.IFBIDimensionModel;
 
 /**
  * Created by Jacky on 2017/6/6.

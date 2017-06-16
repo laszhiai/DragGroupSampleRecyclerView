@@ -1,4 +1,4 @@
-package com.li.jacky.draggrouprecyclerview.model.dimension;
+package com.li.jacky.mylibrary.model.dimension;
 
 import android.support.annotation.NonNull;
 

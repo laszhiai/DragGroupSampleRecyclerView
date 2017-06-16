@@ -1,4 +1,4 @@
-package com.li.jacky.draggrouprecyclerview.helper;
+package com.li.jacky.mylibrary.helper;
 
 /**
  * Created by Jacky on 2017/6/6.

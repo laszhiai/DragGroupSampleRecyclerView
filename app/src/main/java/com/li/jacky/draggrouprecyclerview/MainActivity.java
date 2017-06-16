@@ -6,9 +6,11 @@ import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.helper.ItemTouchHelper;
-import com.li.jacky.draggrouprecyclerview.data.SampleStrategy;
-import com.li.jacky.draggrouprecyclerview.helper.IFBISimpleItemTouchHelperCallback;
-import com.li.jacky.draggrouprecyclerview.model.IFBIBaseWidgetModel;
+import com.li.jacky.mylibrary.Constant;
+import com.li.jacky.mylibrary.IFBIDragSortRecyclerViewAdapter;
+import com.li.jacky.mylibrary.data.SampleStrategy;
+import com.li.jacky.mylibrary.helper.IFBISimpleItemTouchHelperCallback;
+import com.li.jacky.mylibrary.model.IFBIBaseWidgetModel;
 import org.json.JSONException;
 import org.json.JSONObject;
 
@@ -33,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * 根据自身数据结构定制
-     * {@link com.li.jacky.draggrouprecyclerview.data.IFBISettingStrategy#initRegions}
+     * {@link com.li.jacky.mylibrary.data.IFBISettingStrategy#initRegions}
      */
     @NonNull
     private SampleStrategy initStrategy() {

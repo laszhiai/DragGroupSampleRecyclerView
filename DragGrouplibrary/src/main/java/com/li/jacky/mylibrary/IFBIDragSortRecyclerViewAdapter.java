@@ -1,4 +1,4 @@
-package com.li.jacky.draggrouprecyclerview;
+package com.li.jacky.mylibrary;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
@@ -10,11 +10,11 @@ import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
-import com.li.jacky.draggrouprecyclerview.data.IFBISettingStrategy;
-import com.li.jacky.draggrouprecyclerview.helper.IFBIItemTouchHelperAdapter;
-import com.li.jacky.draggrouprecyclerview.helper.IFBISettingItem;
-import com.li.jacky.draggrouprecyclerview.model.IFBISettingItemModel;
-import com.li.jacky.draggrouprecyclerview.model.IFBISettingTitleModel;
+import com.li.jacky.mylibrary.data.IFBISettingStrategy;
+import com.li.jacky.mylibrary.helper.IFBIItemTouchHelperAdapter;
+import com.li.jacky.mylibrary.helper.IFBISettingItem;
+import com.li.jacky.mylibrary.model.IFBISettingItemModel;
+import com.li.jacky.mylibrary.model.IFBISettingTitleModel;
 
 /**
  * Created by Jacky on 2017/5/25.

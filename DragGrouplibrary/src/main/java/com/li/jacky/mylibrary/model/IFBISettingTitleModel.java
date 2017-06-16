@@ -1,7 +1,7 @@
-package com.li.jacky.draggrouprecyclerview.model;
+package com.li.jacky.mylibrary.model;
 
 import android.text.SpannableStringBuilder;
-import com.li.jacky.draggrouprecyclerview.helper.IFBISettingItem;
+import com.li.jacky.mylibrary.helper.IFBISettingItem;
 
 /**
  * Created by Jacky on 2017/6/6.
