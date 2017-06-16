@@ -221,7 +221,6 @@ public abstract class IFBISettingStrategy {
         IFBISettingTitleModel item = (IFBISettingTitleModel) mData.get(position);
         IFBISettingRegion region = getRegion(item);
         if (region != null){
-            region.setExpand(!region.isExpand());
             int count = region.values().size();
             if (!region.isExpand() || count == 0) {
                 item.setTitleText(new SpannableStringBuilder(item.getName()));
@@ -233,6 +232,7 @@ public abstract class IFBISettingStrategy {
                 style.setSpan(new ForegroundColorSpan(TEXT_COLOR_BLUE), start, end, Spannable.SPAN_EXCLUSIVE_INCLUSIVE);
                 item.setTitleText(style);
             }
+            region.setExpand(!region.isExpand());
         }
         initData();
     }
